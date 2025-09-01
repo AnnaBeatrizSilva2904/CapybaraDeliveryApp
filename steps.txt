@@ -7,3 +7,8 @@ git config --global user.email annabeatryz2504@gmail.com
 npx create-expo-app@latest capybaraDelivery
 cd capybaraDelivery
 npm run reset-project -> pressione 'n'
+
+npm i @gorhom/bottom-sheet
+npx expo install react-native-reanimated react-native-gesture-handler
+
+npx expo customize babel.config.js
